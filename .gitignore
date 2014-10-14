@@ -1,0 +1,5 @@
+*.log
+current_position
+node_modules/
+geo_json/*.geojson
+gis_zips/*.ZIP
