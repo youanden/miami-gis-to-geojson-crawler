@@ -11,7 +11,7 @@ and follow  with:
 `node convert-gis-zips-to-geojson.js` 
 
 The following files did not convert to geojson. Either because shpescape didn't have enough memory to process the zips, because there was a zip filesize limit, etc (sizes in bytes, I saved the largest files for last):
-
+```
 117136  ./LOT_LINE.ZIP
 99592   ./PROPERTY2007OCT.ZIP
 99204   ./PROPERTY2008NOV.ZIP
@@ -45,3 +45,4 @@ The following files did not convert to geojson. Either because shpescape didn't 
 9628    ./GEOACTUALRANGES.ZIP
 9536    ./SMALLBUILDING2001.ZIP
 8380    ./SMALLBUILDING2005.ZIP
+```
